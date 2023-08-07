@@ -8,7 +8,7 @@ Welcome to my personal website repository! This website showcases my professiona
 - [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
-- [Upcomiong](#upcoming)
+- [Upcoming](#upcoming)
 
 ## About
 
@@ -28,4 +28,4 @@ Provide ways for visitors to get in touch with you. This could be your email add
 
 ## Upcoming
 
-Will add some new Java project with Java Framework and Cloud with UI Also.
+Will add some new Java projects with Java Framework and Cloud with UI Also.

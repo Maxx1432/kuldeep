@@ -8,6 +8,7 @@ Welcome to my personal website repository! This website showcases my professiona
 - [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
+- [Upcomiong](#upcoming)
 
 ## About
 
@@ -24,3 +25,7 @@ Outline your skills, both technical and non-technical. This could include progra
 ## Contact
 
 Provide ways for visitors to get in touch with you. This could be your email address, social media profiles, or a contact form on your website.
+
+## Upcoming
+
+Will add some new Java project with Java Framework and Cloud with UI Also.
